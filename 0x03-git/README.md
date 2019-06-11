@@ -1,1 +1,1 @@
-This directory contains bash, c, and js which will contain their own files. 
+This directory contains bash and c directories with helpful commands. 
